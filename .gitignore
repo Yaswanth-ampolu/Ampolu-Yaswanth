@@ -1,0 +1,71 @@
+# Temporary files and drafts
+tmp/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# Node modules (if any)
+node_modules/
+
+# Backup files
+*.bak
+*.orig 
+
+./simple_latex_converter.py/
+simple_latex_converter.py/
+assets/pdf/Yaswanth_Ampolu_Resume.pdf
+assets/pdf/Yaswanth_Ampolu_Resume_Final.tex
+assets/pdf/Yaswanth_Ampolu_Resume_Final.tex
+tmp/simple_latex_converter.py
+tmp/simple_latex_converter.py/
+tmp/simple_latex_converter.py/

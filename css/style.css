@@ -887,6 +887,13 @@ img{
     color: var(--text-color-light);
 }
 
+.qualification__description {
+    font-size: var(--small-font-size);
+    color: var(--text-color);
+    margin-top: var(--mb-0-75);
+    line-height: 1.6;
+}
+
 .qualification__rounder {
     display: inline-block;
     width: 13px;
@@ -939,6 +946,13 @@ img{
 
 .portfolio__description {
     margin-bottom: var(--mb-0-75);
+}
+
+.portfolio__technologies {
+    font-size: var(--small-font-size);
+    color: var(--text-color-light);
+    margin-bottom: var(--mb-1);
+    font-style: italic;
 }
 
 .portfolio__button:hover .button__icon {
